@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Vinod Patel — 3D Tech Universe</title><desc id="desc">Dark futuristic technology banner with a glowing orange three-dimensional sphere and orbital rings.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070B"/><stop offset=".55" stop-color="#11131A"/><stop offset="1" stop-color="#241006"/></linearGradient>
+<radialGradient id="planet" cx="32%" cy="25%" r="75%"><stop stop-color="#FFF2D8"/><stop offset=".12" stop-color="#FFB45C"/><stop offset=".34" stop-color="#F36A12"/><stop offset=".68" stop-color="#7A270A"/><stop offset="1" stop-color="#140B0A"/></radialGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFCB7A" stop-opacity=".1"/><stop offset=".48" stop-color="#FF6A00"/><stop offset=".7" stop-color="#FFF0CF"/><stop offset="1" stop-color="#E84B00" stop-opacity=".2"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#B9C0CB"/><stop offset="1" stop-color="#636B78"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="shadow"><feGaussianBlur stdDeviation="24"/></filter>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#FF7A1A" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/><rect width="1600" height="520" fill="url(#grid)" opacity=".55"/>
+<path d="M0 410 300 345 540 420 830 330 1100 405 1400 300 1600 360V520H0Z" fill="#080A0F"/>
+<path d="M0 420 330 360 560 430 850 340 1120 415 1410 310 1600 370" fill="none" stroke="#FF6A00" stroke-opacity=".22" stroke-width="2"/>
+<circle cx="1210" cy="250" r="155" fill="#FF5A00" opacity=".16" filter="url(#shadow)"/>
+<ellipse cx="1210" cy="260" rx="310" ry="90" transform="rotate(-18 1210 260)" fill="none" stroke="url(#ring)" stroke-width="5" filter="url(#glow)"/>
+<ellipse cx="1210" cy="260" rx="260" ry="64" transform="rotate(23 1210 260)" fill="none" stroke="#FF8A24" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="1210" cy="230" r="128" fill="url(#planet)" stroke="#FF9A40" stroke-opacity=".8" stroke-width="2"/>
+<path d="M1110 150Q1190 100 1280 155Q1335 210 1295 300Q1245 365 1160 335Q1080 300 1080 225Q1082 185 1110 150Z" fill="none" stroke="#FFE0B4" stroke-opacity=".18" stroke-width="3"/>
+<path d="M1085 260Q1200 205 1334 246" fill="none" stroke="#FFF2DE" stroke-opacity=".25" stroke-width="4"/>
+<circle cx="1210" cy="230" r="142" fill="none" stroke="#FF6A00" stroke-opacity=".2" stroke-width="1"/>
+<circle cx="1440" cy="120" r="4" fill="#FFB15C" filter="url(#glow)"/><circle cx="980" cy="90" r="3" fill="#FF8B32"/><circle cx="1480" cy="390" r="3" fill="#FF8B32"/><circle cx="890" cy="330" r="4" fill="#FFB15C"/>
+<path d="M68 72H300" stroke="#FF6A00" stroke-width="4"/><path d="M68 82H205" stroke="#FF6A00" stroke-opacity=".4" stroke-width="2"/>
+<text x="70" y="145" fill="#FF8A24" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="6">DEVELOPER / PRODUCT BUILDER</text>
+<text x="66" y="245" fill="url(#metal)" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="-3">VINOD</text><text x="365" y="245" fill="#FF7A18" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="-3">PATEL</text>
+<text x="72" y="305" fill="#F3F4F6" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="3">FULL STACK DEVELOPER  /  UI/UX ENTHUSIAST  /  CPO</text>
+<text x="72" y="382" fill="#E5E7EB" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="600">I don't just write code.</text><text x="72" y="428" fill="#FF8A24" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800">I build systems.</text>
+<path d="M72 458H640" stroke="#FF6A00" stroke-width="3"/><text x="72" y="493" fill="#9CA3AF" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">THINK  ·  DESIGN  ·  BUILD  ·  SHIP</text>
+<path d="M1450 50 1520 50 1490 80 1420 80Z" fill="#FF6A00" opacity=".9"/><path d="M1490 95 1540 95 1520 115 1470 115Z" fill="#FF6A00" opacity=".45"/>
+</svg>
