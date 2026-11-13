@@ -1,252 +1,234 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     Vinod Patel · GitHub profile README  (black + orange "ignition" theme)
-     Repo name must be exactly: Vinod1234-JPG  (public)
-     Banner file must exist at: assets/banner.png (on the main branch)
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/main/assets/banner.png" alt="Vinod Patel — Full Stack Developer. I don't just write code. I build systems." width="100%" />
-
-<a href="https://github.com/Vinod1234-JPG">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=760&height=48&lines=%3E+Full+Stack+Developer;%3E+Chief+Product+Officer+(CPO);%3E+I+don't+just+write+code.+I+build+systems.;%3E+Think.+Build.+Innovate.+Repeat." alt="typing" />
-</a>
+<img src="assets/hero-banner.svg" width="100%" alt="Vinod Patel — Full Stack Developer and UI/UX Designer" />
 
 <br/>
 
-<!-- Command bar: click to jump -->
-<a href="#system-profile"><img src="https://img.shields.io/badge/%F0%9F%A7%AC_PROFILE-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="#choose-your-path"><img src="https://img.shields.io/badge/%F0%9F%A7%AD_PATHS-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/%E2%9A%A1_STACK-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="#how-i-build"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_PROCESS-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="#the-lab"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_LAB-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="#lets-connect"><img src="https://img.shields.io/badge/%F0%9F%93%A1_CONNECT-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF6A00" /></a>
+<a href="https://profile-5yeo.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vinod-patel-aab6a53a6/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Vinod1234-JPG"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vinod1234-JPG&style=for-the-badge&color=FF6A00&labelColor=0D0D0D&label=SYSTEM+VISITS" alt="visits" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=760&height=48&lines=FULL+STACK+DEVELOPER;UI%2FUX+DESIGN+ENTHUSIAST;CHIEF+PRODUCT+OFFICER;I+DON%27T+JUST+WRITE+CODE.+I+BUILD+SYSTEMS." alt="Animated introduction" />
+
+### I don't just write code. I build systems.
+
+*Engineering thoughtful products where technology, usability, and creativity meet.*
 
 </div>
 
-<br/>
+---
 
-## System Profile
+## 01 / SYSTEM PROFILE
 
-```ts
-// vinod.config.ts
-export const vinod = {
-  name:       "Vinod Patel",
-  handle:     "Vinod1234-JPG",
-  roles:      ["Full Stack Developer", "Chief Product Officer (CPO)"],
-  education:  "B.E. Computer Science & Business Systems — MITM, Mysore",
-  stack:      ["React", "Next.js", "TypeScript", "Node.js", "Python", "C++", "Flutter"],
-  also:       ["IoT & Embedded", "Data Automation", "PDF Reports", "Three.js"],
-  philosophy: "I don't just write code. I build systems.",
-  loop:       ["Think", "Build", "Innovate", "Repeat"],
-  status:     "🟠 online — open to collaborations, internships & big ideas",
-} as const;
-```
+Hi, I'm **Vinod Patel** — a Full Stack Developer, UI/UX design enthusiast, and **Chief Product Officer (CPO)** with an interest in turning ideas into useful digital products.
 
-<br/>
+I'm pursuing **B.E. in Computer Science & Business Systems at Maharaja Institute of Technology, Mysore (MITM)**. I enjoy working across the product journey: understanding a problem, shaping the experience, building the application, and improving it through iteration.
 
-## Choose Your Path
+- **Build:** Web and mobile experiences, application workflows, and backend integrations.
+- **Design:** User-focused interfaces, clean layouts, wireframes, and prototypes.
+- **Explore:** IoT and embedded concepts, browser-based 3D, and workflow automation.
+- **Collaborate:** Product ideas, practical engineering challenges, and meaningful digital solutions.
 
-> *Click a card to expand it.*
+> **My approach:** Think from the user's perspective. Design with intention. Build with purpose.
 
-<details>
-<summary><b>🟠 &nbsp;I'm hiring</b></summary>
-<br/>
+---
 
-- 🌐 See the work → **[Portfolio](https://profile-5yeo.vercel.app/)**
-- 💼 Let's talk → **[LinkedIn](https://www.linkedin.com/in/vinod-patel-aab6a53a6)**
-- 🧩 Full stack on web and mobile, plus product thinking from the CPO seat
+## 02 / THE TECHNOLOGY UNIVERSE
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>🟠 &nbsp;I want to build something together</b></summary>
-<br/>
+### Languages · Frameworks · Tools
 
-I'm up for:
-- 🚀 Product ideas that need both an engineer and a product mind
-- 📡 IoT / embedded prototypes
-- 🎮 Browser games & 3D experiences
-- 🤖 Automation tools for Excel, PDFs and data workflows
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,dart,python,nodejs,cpp,postgres,supabase,figma,git,github,vscode,vercel,threejs&theme=dark&perline=7" alt="Technology icon collection" />
 
-Open an issue on any repo or message me on LinkedIn.
+<br/><br/>
 
-</details>
+<img src="assets/technology-stack.svg" width="100%" alt="Technology stack grouped by frontend, backend, mobile, design and tools" />
 
-<details>
-<summary><b>🟠 &nbsp;Just exploring</b></summary>
-<br/>
+</div>
 
-Welcome in. Scroll on for the stack, the process and live stats. If something here helps you, leave a ⭐.
+| Focus area | Technologies and interests |
+|:--|:--|
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| **Mobile** | Flutter, Dart |
+| **Backend & data** | Node.js, Python, PostgreSQL, Supabase, REST APIs |
+| **Programming** | C++, Python, JavaScript |
+| **UI/UX** | Figma, wireframing, prototyping, responsive design, design systems |
+| **Creative technology** | Three.js, browser-based 3D, IoT and embedded concepts |
+| **Workflow** | Git, GitHub, VS Code, Vercel |
 
-</details>
+---
 
-<br/>
+## 03 / UI/UX DESIGN LAB
 
-## What Drives Me
+I care about more than making an interface look attractive. A good product should feel clear, consistent, accessible, and easy to use.
+
+<div align="center">
+  <img src="assets/ux-workflow.svg" width="100%" alt="UI UX process: Discover, Structure, Design, Prototype, Validate and Refine" />
+</div>
+
+### My interface design principles
+
+| Principle | What it means in my work |
+|:--|:--|
+| **Clarity first** | Make the next action obvious and reduce unnecessary complexity. |
+| **Consistent systems** | Reuse typography, spacing, colors, components, and interaction patterns. |
+| **Responsive by design** | Plan layouts for mobile, tablet, and desktop instead of shrinking one screen. |
+| **Useful feedback** | Give users clear states for loading, success, errors, and empty content. |
+| **Design with purpose** | Connect every visual decision to usability or product goals. |
+
+**Current design interests:** Dark interfaces, dashboard experiences, clean data visualization, micro-interactions, design systems, and 3D-inspired visual storytelling.
+
+---
+
+## 04 / SELECTED PROJECTS
+
+A selection of live products and platforms listed in my existing portfolio README.
 
 <table>
-<tr>
-<td width="33%" align="center">
-<h2>&lt;/&gt;</h2>
-<b>Build Scalable Apps</b><br/>
-<sub>Clean architecture, fast interfaces, systems that keep working as they grow.</sub>
-</td>
-<td width="33%" align="center">
-<h2>💡</h2>
-<b>Innovate with Ideas</b><br/>
-<sub>Start from the user's problem, then pick the tech that solves it.</sub>
-</td>
-<td width="33%" align="center">
-<h2>🚀</h2>
-<b>Turn Ideas into Reality</b><br/>
-<sub>Prototype fast, ship early, and improve with real feedback.</sub>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · No-Due Portal</h3>
+      <b>Clearance management platform</b>
+      <p>A digital clearance workflow connecting students, faculty, library, accounts, coordinators, and administration with dues, approvals, and certificate generation.</p>
+      <a href="https://noc-portal-self.vercel.app/">↗ Explore project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · AcadOps ERP</h3>
+      <b>Institutional management system</b>
+      <p>An ERP concept for academic and administrative workflows, including admissions, attendance, assessments, examinations, and mentorship.</p>
+      <a href="https://erp-client-9lbk.vercel.app/">↗ Explore project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · MITM PlacePro</h3>
+      <b>Placement management platform</b>
+      <p>A recruitment workflow platform for students, placement administrators, and companies, covering drives, assessments, interviews, and placement activity.</p>
+      <a href="https://mitm-placepro.vercel.app/">↗ Explore project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · MRF</h3>
+      <b>Research management platform</b>
+      <p>A research administration workflow covering candidate registration, supervisor allocation, reviews, progress reporting, publications, and examinations.</p>
+      <a href="https://mitm-rd.vercel.app/">↗ Explore project</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>05 · UdyogaMITra</h3>
+      <b>Campus recruitment portal</b>
+      <p>A campus recruitment ecosystem connecting students, companies, and administrators through recruitment workflows and matching.</p>
+      <a href="https://mit-place-pro-five.vercel.app/">↗ Explore project</a>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-## Tech Stack
-
 <div align="center">
-
-| Layer | Tools |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" /> |
-| **Systems** | <img src="https://skillicons.dev/icons?i=cpp&theme=dark" /> |
-| **3D & Creative** | <img src="https://skillicons.dev/icons?i=threejs&theme=dark" /> |
-| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /> |
-
+<a href="https://profile-5yeo.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FF6A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
 </div>
 
-<div align="center">
+---
 
-![ReportLab](https://img.shields.io/badge/ReportLab-PDF_Engine-FF6A00?style=flat-square&labelColor=0D0D0D)
-![openpyxl](https://img.shields.io/badge/openpyxl-Excel_Automation-FF6A00?style=flat-square&labelColor=0D0D0D)
-![IoT](https://img.shields.io/badge/IoT-Embedded_Systems-FF6A00?style=flat-square&labelColor=0D0D0D)
-![Three.js](https://img.shields.io/badge/Three.js-Browser_3D-FF6A00?style=flat-square&labelColor=0D0D0D)
+## 05 / HOW I BUILD
 
-</div>
-
-<br/>
-
-## How I Build
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0f05','primaryBorderColor':'#FF6A00','primaryTextColor':'#ffffff','lineColor':'#FF8A00','fontFamily':'monospace'}}}%%
+~~~mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#211306','primaryBorderColor':'#FF6A00','primaryTextColor':'#FFFFFF','lineColor':'#FF8A00','fontFamily':'monospace'}}}%%
 flowchart LR
-    A([💡 Idea]) --> B[🧠 Think<br/>problem + users]
-    B --> C[⚒️ Build<br/>prototype fast]
-    C --> D[🚀 Ship<br/>deploy early]
-    D --> E[📈 Learn<br/>feedback + data]
-    E --> F([🔁 Repeat])
-    F -.-> A
-```
-
-<br/>
-
-## The Lab
+    A([DISCOVER]) --> B[DEFINE]
+    B --> C[DESIGN]
+    C --> D[DEVELOP]
+    D --> E[TEST]
+    E --> F([SHIP])
+    F --> G[LEARN]
+    G --> A
+~~~
 
 <details>
-<summary><b>📡 &nbsp;IoT & Embedded Systems</b></summary>
+<summary><b>01 · Discover & define</b></summary>
 <br/>
-
-Sensor-driven and microcontroller-based projects where software meets the physical world.
-
+Understand the user, the problem, the constraints, and what a successful outcome should look like.
 </details>
 
 <details>
-<summary><b>📄 &nbsp;PDF Report Generation</b></summary>
+<summary><b>02 · Design & prototype</b></summary>
 <br/>
-
-Python + ReportLab pipelines that turn raw data into clean, styled, ready-to-share reports.
-
+Map the experience, create the interface structure, establish reusable patterns, and test the flow before implementation.
 </details>
 
 <details>
-<summary><b>📊 &nbsp;Data Automation</b></summary>
+<summary><b>03 · Develop & validate</b></summary>
 <br/>
-
-Excel workflows with openpyxl, plus extracting structured data from images. Manual work in, one-click scripts out.
-
+Build the frontend and application logic, connect the data layer, test important states, and refine the experience.
 </details>
 
 <details>
-<summary><b>🎮 &nbsp;3D Web & Games</b></summary>
+<summary><b>04 · Ship & improve</b></summary>
 <br/>
-
-Browser-based 3D worlds and games built with Three.js.
-
+Deploy, collect feedback, fix friction points, and keep improving the product.
 </details>
 
-<br/>
+---
 
-## Live Stats
+## 06 / GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vinod1234-JPG&show_icons=true&hide_border=false&border_color=FF6A00&title_color=FF6A00&icon_color=FF8A00&text_color=FFFFFF&bg_color=0D0D0D&ring_color=FF6A00" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod1234-JPG&layout=compact&hide_border=false&border_color=FF6A00&title_color=FF6A00&text_color=FFFFFF&bg_color=0D0D0D" alt="languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Vinod1234-JPG&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6A00&icon_color=FF8A00&text_color=E6EDF3&rank_icon=github" alt="GitHub profile statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod1234-JPG&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6A00&text_color=E6EDF3" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vinod1234-JPG&background=0D0D0D&stroke=FF6A00&ring=FF6A00&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6A00&sideLabels=FF8A00&dates=B0B0B0&border=FF6A00" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Vinod1234-JPG&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF8A00" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinod1234-JPG&bg_color=0D1117&color=FF8A00&line=FF6A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+### Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 07 / BEYOND THE CODE
+
+- **Product thinking:** Connect user needs, product goals, and engineering decisions.
+- **Automation:** Interested in turning repetitive data and document workflows into reliable tools.
+- **IoT & embedded concepts:** Exploring how software can interact with the physical world.
+- **3D on the web:** Interested in interactive and immersive browser experiences.
+- **Continuous learning:** Experiment, reflect, improve, and share what works.
+
+---
+
+## 08 / LET'S CONNECT
+
+<div align="center">
+
+### Have an idea worth building?
+
+I'm interested in thoughtful collaboration, useful products, and challenges where design and engineering work together.
+
+<a href="https://github.com/Vinod1234-JPG"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/vinod-patel-aab6a53a6/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://profile-5yeo.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinod1234-JPG&bg_color=0D0D0D&color=FF6A00&line=FF8A00&point=FFFFFF&area=true&area_color=FF6A00&hide_border=true&title_color=FF6A00" alt="activity" width="100%" />
+**THINK · DESIGN · BUILD · SHIP**
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,55:8A2B08,100:FF6A00" width="100%" alt="Orange futuristic footer" />
 
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-<!-- Replace REPO-NAME with your real repo names, then remove the comment markers
-<div align="center">
-<a href="https://github.com/Vinod1234-JPG/REPO-NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinod1234-JPG&repo=REPO-NAME&bg_color=0D0D0D&title_color=FF6A00&text_color=FFFFFF&icon_color=FF8A00&border_color=FF6A00" /></a>
-<a href="https://github.com/Vinod1234-JPG/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinod1234-JPG&repo=REPO-NAME-2&bg_color=0D0D0D&title_color=FF6A00&text_color=FFFFFF&icon_color=FF8A00&border_color=FF6A00" /></a>
-</div>
--->
-
-Browse everything here → **[github.com/Vinod1234-JPG?tab=repositories](https://github.com/Vinod1234-JPG?tab=repositories)**
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Vinod1234-JPG"><img src="https://img.shields.io/badge/GitHub-Vinod1234--JPG-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6A00&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="https://www.linkedin.com/in/vinod-patel-aab6a53a6"><img src="https://img.shields.io/badge/LinkedIn-Vinod_Patel-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=0D0D0D&color=FF6A00" /></a>
-<a href="https://profile-5yeo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6A00&labelColor=0D0D0D&color=FF6A00" /></a>
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say_Hi-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6A00&labelColor=0D0D0D&color=FF6A00" /></a> -->
-
-<br/><br/>
-
-### *Think. Build. Innovate. Repeat.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:0D0D0D&height=140&section=footer" width="100%" alt="footer" />
+<sub>Designed with purpose by Vinod Patel · 2026</sub>
 
 </div>
