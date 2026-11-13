@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hi%2C%20I'm%20Vinod&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Business%20Systems%20Student%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hi%2C%20I'm%20Vinod&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chief%20Product%20Officer%20%C2%B7%20CS%20%26%20Business%20Systems%20Student%20%C2%B7%20Builder&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/Vinod1234-JPG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%3E+Building+IoT+%26+embedded+systems;%3E+Automating+data+with+Python;%3E+Crafting+3D+worlds+in+the+browser;%3E+Turning+ideas+into+working+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%3E+Chief+Product+Officer+%7C+CPO;%3E+Building+IoT+%26+embedded+systems;%3E+Automating+data+with+Python;%3E+Crafting+3D+worlds+in+the+browser;%3E+Turning+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 ```js
 const vinod = {
   username:  "Vinod1234-JPG",
-  role:      "Computer Science student & developer",
+  roles:     ["Chief Product Officer (CPO)", "Computer Science student & developer"],
   college:   "Maharaja Institute of Technology Mysore (MITM)",
   department:"Computer Science and Business Systems",
   focus:     ["IoT & Embedded Systems", "Automation", "3D Web Development", "Report Generation"],
@@ -177,6 +177,7 @@ Welcome! 👋 Scroll down to see my stack, stats and what I'm building. Drop a �
 
 ## 🎯 Currently
 
+- 👔 Serving as **Chief Product Officer (CPO)**: shaping product vision, roadmap and user experience
 - 🔭 Building and polishing academic + personal projects
 - 🌱 Leveling up in IoT, automation and 3D web development
 - 💡 Exploring how to turn code into real products
