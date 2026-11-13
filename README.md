@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════
      Vinod Patel · GitHub profile README  (black + orange "ignition" theme)
      Repo name must be exactly: Vinod1234-JPG  (public)
-     Put the banner at: assets/banner.png
+     Banner file must exist at: assets/banner.png (on the main branch)
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Vinod Patel — Full Stack Developer. I don't just write code. I build systems." width="100%" />
+<img src="https://raw.githubusercontent.com/Vinod1234-JPG/Vinod1234-JPG/main/assets/banner.png" alt="Vinod Patel — Full Stack Developer. I don't just write code. I build systems." width="100%" />
 
 <a href="https://github.com/Vinod1234-JPG">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=760&height=48&lines=%3E+Full+Stack+Developer;%3E+Chief+Product+Officer+(CPO);%3E+I+don't+just+write+code.+I+build+systems.;%3E+Think.+Build.+Innovate.+Repeat." alt="typing" />
